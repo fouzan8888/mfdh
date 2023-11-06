@@ -37,3 +37,5 @@ jobs:
     - name: Python application
       run: |
         pytest calc.py
+        python hello.py
+        
